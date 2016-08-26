@@ -1,2 +1,2 @@
-Creating a new branch is quick and simple.
-add branch dev 
+Creating a new branch is quickly and simple.
+add branch dev
